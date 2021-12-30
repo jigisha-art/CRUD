@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "hhehe",
+      "username": "nanan",
+      "email": "sri@12",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "9929929",
+      "Beneficiary": "byebye",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neusral-net",
+        "bs": "harness real-time e-markets"
+      },
+      "website": "byebye"
+    },
+    {
+      "name": "jjj",
+      "username": "bbb",
+      "email": "sri@12",
+      "phone": "9299299898",
+      "website": "",
+      "id": 12
+    },
+    {
+      "name": "srishti singh",
+      "username": "sri12",
+      "email": "srishti@gmail.com",
+      "phone": "8787878870",
+      "website": "",
+      "id": 13
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "username": "90988",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "+147793584786430",
+      "website": "",
+      "id": 14
+    },
+    {
+      "name": "jigyasa",
+      "username": "sri12",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "+147793584786430",
+      "website": "Asgja",
+      "id": 15
+    },
+    {
+      "name": "Minku",
+      "username": "hunter01",
+      "email": "ayush@gmail.com",
+      "phone": "993116547",
+      "website": "",
+      "id": 16
+    }
+  ]
+}

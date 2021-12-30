@@ -1,0 +1,16 @@
+
+form {
+    border: 20px solid black;
+    background-color: rgb(221, 234, 238);
+    padding-top: 50px;
+    padding-right: 230px;
+    padding-bottom: 80px;
+    padding-left: 350px;
+  }
+  .header {
+    background-color: #d3aa83;
+    padding: 10px;
+    padding-right: 250;
+    text-align: center;
+  }
+ 

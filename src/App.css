@@ -1,0 +1,19 @@
+.primary {
+    color:rgb(224, 224, 235);
+    }
+    
+    
+    
+     body {
+        background-color: rgb(241, 240, 214);
+      }
+      
+
+.home , .About , .Contact, .Userdetails, .Signup
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    height: 90vh;
+}
